@@ -26,7 +26,7 @@ A fun and interactive Emoji Memory Puzzle Game built using Python's `tkinter` li
 
 ---
 
-## 🚀 How to Run
+## 🚀 How to Run Code
 
 1. **Clone the repository or download the script**
    ```bash
