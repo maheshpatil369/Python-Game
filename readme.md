@@ -34,4 +34,4 @@ A fun and interactive Emoji Memory Puzzle Game built using Python's `tkinter` li
    cd emoji-memory-game
 
    
-Made with ❤️ by Mahesh Patil
+**Made with ❤️ by Mahesh Patil**
