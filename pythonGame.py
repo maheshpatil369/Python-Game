@@ -1,3 +1,5 @@
+# Made with ❤️ by Mahesh Patil
+
 import tkinter as tk
 import random
 import time
@@ -11,7 +13,7 @@ class MemoryGame:
         self.root.resizable(False, False)
 
         self.score_history = []  # 🔁 store scores from multiple games
-
+# Made with ❤️ by Mahesh Patil
         self.reset_game()
 
     def reset_game(self):
